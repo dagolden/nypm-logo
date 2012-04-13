@@ -1,0 +1,8 @@
+Raptor image by Sebastian Riedel (CC BY-SA 3.0)
+  https://github.com/kraih/perl-raptor
+
+NY Skyline image by DragonArtz (CC BY-NC-SA 3.0)
+  http://www.dragonartz.net/2008/07/08/skyline-us-newyork-city-vectors/
+
+Mechanis ADF Std font by Arkandis Digital Foundry (GPL v2 + FE)
+  http://arkandis.tuxfamily.org/adffonts.html
